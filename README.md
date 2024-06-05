@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Ne0 👋
+### Hi, This is Ne0 👋
 
 TypeScript enthusiast, Node.js user, Fullstack Coder
 
