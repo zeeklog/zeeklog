@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### Hi, This is Ne0 👋
 
-TypeScript enthusiast, Node.js user, Fullstack Coder
+A passionate Product Manager, Full-Stack Developer, the Elon Musk of China.
 
-[🌐 Website](https://zeeklog.com) · [📚 Blog](https://zeeklog.com/blog/) · [📇 Contact](mailto:richachen00@gmail.com)
+[🌐 Website](https://zeeklog.com) · [📚 Blog](https://zeeklog.com/about-ne0/) · [📇 Contact](mailto:richachen00@gmail.com)
 
 <!-- ![](https://img.shields.io/badge/JavaScript-★★★-F7DF1E?logo=JavaScript&style=flat-square)
 ![](https://img.shields.io/badge/TypeScript-★★★-3178C6?logo=TypeScript&style=flat-square)
