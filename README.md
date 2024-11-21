@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Think outside the box.
 
-### Hi, This is Ne0 👋
+## Hi, This is Ne0 👋
 
-A passionate Product Manager, Full-Stack Developer, the Elon Musk of China.
+A passionate Product Manager, Full-Stack Developer.
 
 [🌐 Website](https://zeeklog.com) · [📚 Blog](https://zeeklog.com/about-ne0/) · [📇 Contact](mailto:richachen00@gmail.com)
 
