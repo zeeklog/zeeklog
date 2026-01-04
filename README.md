@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 A passionate Product Manager, Full-Stack Developer.
 
-[🌐 Website](https://zeeklog.com) · [📚 Blog](https://zeeklog.com) · [📇 Contact](mailto:richachen00@gmail.com) · [🦜 X/Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FGrace_labubu
+[🌐 Website](https://zeeklog.com) · [📚 Blog](https://zeeklog.com) · [📇 Contact](mailto:richachen00@gmail.com)
 )
 
 <!-- ![](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?logo=JavaScript&style=flat-square)
