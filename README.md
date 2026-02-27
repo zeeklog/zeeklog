@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 A passionate Product Manager, Full-Stack Developer.
 
 [🌐 Website](https://zeeklog.com) · [📚 Blog](https://zeeklog.com) · [📇 Contact](mailto:richachen00@gmail.com)
-)
 
 <!-- ![](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?logo=JavaScript&style=flat-square)
 ![](https://img.shields.io/badge/TypeScript-★★★★★-3178C6?logo=TypeScript&style=flat-square)
@@ -42,5 +41,3 @@ A passionate Product Manager, Full-Stack Developer.
 ### Tools I use
 ![](https://skillicons.dev/icons?i=webstorm,webpack,vite,rollup,gulp,git,githubactions,github)
 
-![](https://github-readme-stats.vercel.app/api?username=zeeklog&show_icons=true&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeklog&layout=compact&hide_border=true&langs_count=8)
